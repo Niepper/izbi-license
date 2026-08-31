@@ -13,5 +13,3 @@ Have fun with this license
 6. Dziekan WIET nie może nic z oprogramowniem zrobić
 
 This repository is licensed under The izbi license 1.0
-
-izbi

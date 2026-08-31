@@ -1,0 +1,54 @@
+The izbi License 1.0
+
+Permission is hereby granted, free of charge, to any student and/or
+graduate of Computer Science - Information Security Management 
+(pl. Informatyka - Zarządzanie Bezpieczeństwem Informacji "izbi")
+from AGH University of Krakow ("AGH"), to freely use, modify and
+redistribute the contents of this software, its source code
+and any associated documentation ("full software"). 
+
+Only other students and/or staff of AGH's Faculty of Computer Science 
+(pl. Wydział Informatyki Akademii Górniczo-Hutniczej "WI AGH"), 
+after being given the verbal (which may be revoked at any time by original authors) or written 
+permission from the author(s) of the full software may acquire the same rights 
+to the full software as the students of izbi, free of charge.
+The use of this license by people affiliated with WI AGH is permitted only if they
+know someone that attends and/or attended izbi.
+
+Any other person, who is unrelated to WI AGH and wishes to use this software is allowed to, 
+but cannot publish for profit or modify any version of the full software 
+or parts of its source code, including (but not limited to) merging and/or sublicensing, 
+except where such modification is private and cannot be discovered or 
+traced through the Clearnet or Deep web, in which case it is explicitly permitted.
+
+Students of AGH's Faculty of Computer Science, Electronics and Telecommunications
+(pl. Wydział Informatyki, Elektroniki i Telekomunikacji "WIET")
+are not permitted to use and/or modify the full software.
+However if they want to use the full software or its parts 
+they need to give 1 (one) full can of beer from the brand "Romper",
+or any other beer stated in the beer.md file in which (if created),
+every author needs to name the brand and type of beer they want to be given.
+This beer must be given to every credited author of the full software, 
+even if parts of the software that the students of WIET used were not made by that person. 
+After supplying the author(s) with beer, WIET students are acquiring the 
+same rights as students of WI AGH.
+
+The only people that are not allowed to use the full software in
+any way, shape or form, including reading this license or any other file
+are any past, present and future deans of WIET.
+
+THE TEXT ABOVE HAS TO APPEAR IN ITS UNCHANGED FORM IN ANY COPIES
+AND/OR FORKS OF FULL SOFTWARE THAT WERE NOT CREATED BY THE ORIGINAL
+AUTHOR OF THE FULL SOFTWARE. THE ONLY PEOPLE WITH THE RIGHT TO 
+CHANGE THE LICENSE OF THE FULL SOFTWARE ARE THE AUTHORS 
+CREDITED IN THE HISTORY OF THE ORIGINAL REPOSITORY (OR SEPARATE 
+AUTHORS.md file).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR 
+IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+izbi

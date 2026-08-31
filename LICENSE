@@ -1,4 +1,4 @@
-The izbi license 1.0
+The izbi license 1.01
 
 Permission is hereby granted, free of charge, to any student and/or
 graduate of Computer Science - Information Security Management 
@@ -6,6 +6,11 @@ graduate of Computer Science - Information Security Management
 from AGH University of Krakow ("AGH"), to freely use, modify and
 redistribute the contents of this software, its source code
 and any associated documentation ("full software"). 
+
+Every file that is written in human-readable format, meant to be read 
+by humans and not used by the software itself (documentation, readme, etc.), 
+has to end with the word "izbi", separated from the rest of the 
+aforementioned file by a newline character.
 
 Only other students and/or staff of AGH's Faculty of Computer Science 
 (pl. Wydział Informatyki Akademii Górniczo-Hutniczej "WI AGH"), 
